@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Blockchain-Enabled-Security-Framework/static/css/main.86b1d94b.css",
+    "main.js": "/Blockchain-Enabled-Security-Framework/static/js/main.6bdcf4c4.js",
+    "static/js/787.d5fa4d18.chunk.js": "/Blockchain-Enabled-Security-Framework/static/js/787.d5fa4d18.chunk.js",
+    "index.html": "/Blockchain-Enabled-Security-Framework/index.html",
+    "main.86b1d94b.css.map": "/Blockchain-Enabled-Security-Framework/static/css/main.86b1d94b.css.map",
+    "main.6bdcf4c4.js.map": "/Blockchain-Enabled-Security-Framework/static/js/main.6bdcf4c4.js.map",
+    "787.d5fa4d18.chunk.js.map": "/Blockchain-Enabled-Security-Framework/static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86b1d94b.css",
+    "static/js/main.6bdcf4c4.js"
+  ]
+}
